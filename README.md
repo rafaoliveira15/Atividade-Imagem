@@ -29,5 +29,6 @@ utilização da tag <img> e aplicação de hiperlinks.
 
 🔗Click aqui para acessar o site
 http://127.0.0.1:5501/index.html
+
 <img width="300" height="300" alt="Captura de tela 2025-08-21 110317" src="https://github.com/user-attachments/assets/20b529c6-7304-440c-b296-51f3d001742e" />
 
